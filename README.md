@@ -5,7 +5,7 @@
 <p>
 
 
-- I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here   [![163 邮箱](https://img.shields.io/badge/-find_livingbody@qq.com-c14438?style=plastic&link=mailto:livingbody@qq.com)](mailto:livingbody@qq.com)
+- I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here find  [![163 邮箱](https://img.shields.io/badge/-_livingbody@qq.com-c14438?style=plastic&link=mailto:livingbody@qq.com)](mailto:livingbody@qq.com)
     [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/livingbody/nav/master/static/images/WeChat.jpg)
 
 - 🚀 I Love PaddlePaddle:
