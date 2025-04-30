@@ -9,24 +9,11 @@
     [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/livingbody/nav/master/static/images/WeChat.jpg)
 
 - 🚀 I Love PaddlePaddle:
-    [![Build Status](https://travis-ci.org/PaddlePaddle/Paddle.svg?branch=develop)](https://travis-ci.org/PaddlePaddle/Paddle)
-    [![Documentation Status](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](https://paddlepaddle.org.cn/documentation/docs/en/guides/index_en.html)
+   ![Documentation Status](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](https://paddlepaddle.org.cn/documentation/docs/en/guides/index_en.html)
     [![Documentation Status](https://img.shields.io/badge/中文文档-最新-brightgreen.svg)](https://paddlepaddle.org.cn/documentation/docs/zh/guides/index_cn.html)
-    [![Release](https://img.shields.io/github/release/PaddlePaddle/Paddle.svg)](https://github.com/PaddlePaddle/Paddle/releases)
     [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](LICENSE)
 
 
-- 🚀 I use daily:
-  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)
-  ![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
-  ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)
-  ![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)
-  ![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)
-  ![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)
-  ![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)
-  ![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)
-  ![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)
 
 - 💻 I work using:
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
@@ -56,7 +43,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livingbody)](https://github.com/livingbody/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livingbody&layout=compact)
-![livingbody's GitHub stats](https://github-readme-stats.vercel.app/api?username=livingbody&show_icons=true)
 
 ### My Skill Set
 <table><tr><td valign="top" width="33%">
