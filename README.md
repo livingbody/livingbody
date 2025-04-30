@@ -51,7 +51,7 @@
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)
 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/livingbody/count.svg) visitor, Thank You!🎉🎉
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livingbody)](https://github.com/livingbody/github-readme-stats)
 
